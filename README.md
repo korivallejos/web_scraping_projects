@@ -32,6 +32,10 @@ Funcionalidades:
 
 * Producto Final: Un archivo de Excel (.xlsx) organizado en varias hojas, que contiene un informe principal y los resultados detallados de la búsqueda de noticias.
 
+## Ver Proyecto en vivo
+
+* [https://korivallejos.github.io/web_scraping_projects/](https://korivallejos.github.io/web_scraping_projects/)
+
 ## 📃 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
