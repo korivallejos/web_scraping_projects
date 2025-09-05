@@ -1,6 +1,6 @@
 # Análisis de código: Búsqueda de información de empresas y noticias
 
-## Proyecto 1: Búsqueda de Información de Empresas (Debida Diligencia)
+## 🚀 Proyecto 1: Búsqueda de Información de Empresas (Debida Diligencia)
 
 Objetivo: Automatizar la recolección de datos de empresas (representantes, sanciones, etc.) de múltiples fuentes.
 
@@ -16,7 +16,7 @@ Funcionalidades:
 
 * Producto Final: Un archivo de Excel (.xlsx) con un informe completo sobre la empresa y sus representantes.
 
-## Proyecto 2: Búsqueda de Noticias de Alto Riesgo
+## 🚀 Proyecto 2: Búsqueda de Noticias de Alto Riesgo
 
 Objetivo: Monitorear y consolidar noticias de alto riesgo (fraude, corrupción, etc.) relacionadas con empresas y sus representantes.
 
